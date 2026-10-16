@@ -86,5 +86,3 @@ These are design limitations and trust assumptions, not claims that an unauthori
     ├── Ballot.sol
     └── Escrow.sol
 ```
-
-The four contracts will be carried into Foundry in Week 4 for automated testing.
